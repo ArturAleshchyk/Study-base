@@ -1,1 +1,1 @@
-Study base
+RubyStudyMaterials

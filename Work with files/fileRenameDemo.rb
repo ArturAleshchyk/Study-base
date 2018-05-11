@@ -1,0 +1,1 @@
+File.rename 'output.txtttt', 'output.txt'
